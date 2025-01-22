@@ -21,10 +21,8 @@ int main() {
     // 2D array
     int matrix[2][2] = {{1, 2}, {3, 4}};
     cout << "Matrix: " << endl;
-    cout << matrix[0][0] << " " << matrix[0][1] <
-            < endl;
-    cout << matrix[1][0] << " " << matrix[1][1] <
-            < endl;
+    cout << matrix[0][0] << " " << matrix[0][1] << endl;
+    cout << matrix[1][0] << " " << matrix[1][1] << endl;
             
     return 0;
 }
